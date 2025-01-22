@@ -1,0 +1,203 @@
+/* General Styles */
+.cost-estimator-container {
+  width: 100%;
+  /* padding: 20px; */
+}
+
+.hero {
+  position: relative;
+  height: 300px;
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin: 0;
+  animation: fadeInUp 1s ease-in-out;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif;
+  margin: 10px 0;
+  animation: fadeInUp 1.5s ease-in-out;
+}
+
+.cost-estimator-form {
+  max-width: 900px;
+  margin: 40px auto;
+  background: #f8f8f8;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0.1, 0.2, 0.3, 0.2);
+  animation: fadeIn 1s ease-in-out;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+input, select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+}
+
+input:focus, select:focus {
+  border-color: #1e90ff;
+  box-shadow: 0 0 5px rgba(30, 144, 255, 0.5);
+  outline: none;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 15px;
+  background: #1e90ff;
+  color: white;
+  font-size: 1.2rem;
+  font-family: "Roboto", sans-serif;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background: #0044cc;
+}
+
+.cost-results {
+  margin-top: 20px;
+  background: #e0e0e0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  animation: fadeInUp 1.5s ease-in-out;
+}
+
+.cost-result h4 {
+  font-size: 1.2rem;
+  font-family: "Roboto", sans-serif;
+  margin: 10px 0;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Styles */
+@media (max-width: 1024px) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.4rem;
+  }
+
+  .cost-estimator-form {
+    padding: 15px;
+  }
+
+  .submit-btn {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.3rem;
+  }
+
+  .cost-estimator-form {
+    padding: 10px;
+  }
+
+  label {
+    text-align: left;
+  }
+
+  .submit-btn {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-title {
+    font-size: 1.8rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .cost-estimator-form {
+    padding: 10px;
+  }
+
+  .submit-btn {
+    font-size: 1rem;
+  }
+}
+
+/* Subheading Alignment */
+.cost-estimator-form h2 {
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.cost-results h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
