@@ -15,6 +15,7 @@ import ConcreteBlocks from './Component/ConcreteBlocks';
 import RedClayBricks from './Component/RedClayBricks';
 import CommericialPackage from './Component/CommericialPackage';
 import VillaPackage from './Component/VillaPackage';
+import Gallery from './Component/Gallery';
 // import Project1 from './Component/Project1';
 
 function App() {
@@ -36,6 +37,7 @@ function App() {
       <Route path='/package/commercialpackage' element={<CommericialPackage/>} />
       <Route path='/package/villapackage' element={<VillaPackage/>} />
       <Route path='/costestimator' element={<CostEstimator/>} />
+      <Route path='/gallery' element={<Gallery/>} />
       <Route path='/contact' element={<Contact/>} />
     </Routes>
     <WhatsappButton />

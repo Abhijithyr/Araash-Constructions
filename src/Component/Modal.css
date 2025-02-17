@@ -101,6 +101,6 @@
   .modal-body {
     overflow-y: auto; 
     max-height: 400px; 
-    /* background: linear-gradient(to right, #9ed9c9, #88accb); */
+    background: linear-gradient(to right, #9ed9c9, #88accb);
   }
   

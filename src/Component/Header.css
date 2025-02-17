@@ -2,8 +2,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* background: linear-gradient(to right, #38c29d, #549fe0); */
-    background:  #fff;
+    background: linear-gradient(to right, #38c29d, #549fe0);
+    /* background:  #fff; */
     color: #ffebee; 
     position: sticky;
     width: 100% ;

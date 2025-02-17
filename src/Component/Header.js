@@ -25,6 +25,7 @@ const Header = () => {
                     {/* <li><a href="/projects">Projects</a></li> */}
                     <li><a href="/packages">Packages</a></li>
                     <li><a href="/costestimator">Cost Estimator</a></li>
+                    <li><a href="/gallery">Gallery</a></li>
                     <li><a href="/contact">Contact Us</a></li>
                     <li className='nav_call'><a href="tel:+91 9916477467"><MobileOutlined />9916477467</a></li>
                 </ul>

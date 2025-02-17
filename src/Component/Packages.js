@@ -26,13 +26,13 @@ const packages = [
     content: "This package uses traditional red clay bricks for durability...",
     path: "/package/redclaybricks",
   },
-  {
-    id: 3,
-    title: "COMMERCIAL BUILDING PACKAGE",
-    image: Package3,
-    content: "Ideal for commercial spaces with steel frame structures...",
-    path: "/package/commercialpackage",
-  },
+  // {
+  //   id: 3,
+  //   title: "COMMERCIAL BUILDING PACKAGE",
+  //   image: Package3,
+  //   content: "Ideal for commercial spaces with steel frame structures...",
+  //   path: "/package/commercialpackage",
+  // },
   {
     id: 4,
     title: "VILLA CONSTRUCTION PACKAGE",
