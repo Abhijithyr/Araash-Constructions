@@ -183,7 +183,7 @@ const concretePackagesData = [
     },
     {
       name: "Standard Package",
-      price: "₹2,150/sq.ft",
+      price: "₹2,200/sq.ft",
       features: [
         {
           category: "Core Construction Materials",
@@ -362,7 +362,7 @@ const concretePackagesData = [
     },
     {
       name: "Premium Package",
-      price: "₹2,350/sq.ft",
+      price: "₹2,400/sq.ft",
       features: [
         {
           category: "Core Construction Materials",

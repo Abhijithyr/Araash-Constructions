@@ -5,10 +5,10 @@ import "aos/dist/aos.css"; // Import AOS animations
 import "./Packages.css";
 
 // Images
-import Package1 from "../Component/Images/Package1.webp";
-import Package2 from "../Component/Images/Package2.webp";
-import Package3 from "../Component/Images/Package3.webp";
-import Package4 from "../Component/Images/Package4.webp";
+import Package1 from "../Component/Images/Package-1.png";
+import Package2 from "../Component/Images/Package-2.png";
+// import Package3 from "../Component/Images/Package3.webp";
+import Package4 from "../Component/Images/Package-4.png";
 import Ourpackages from "../Component/Images/ourpackages.png"; // Background image for heading
 
 const packages = [

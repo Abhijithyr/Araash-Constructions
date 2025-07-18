@@ -6,7 +6,7 @@ const concretePackagesData = [
     
     {
       name: "Standard Package",
-      price: "₹2,350/sq.ft",
+      price: "₹2,500/sq.ft",
       features: [
         {
           category: "Core Construction Materials",
@@ -50,11 +50,11 @@ const concretePackagesData = [
           details: [
             {
               text: "Living, Dining, Rooms & Kitchen",
-              description: " - Tiles or granite of price up to ₹120/SFT",
+              description: " - Tiles or granite of price up to ₹150/SFT",
             },
             {
               text: "Balcony & Open areas",
-              description: " - Anti skid tiles of value up to ₹60/sq.ft",
+              description: " - Anti skid tiles of value up to ₹80/sq.ft",
             },
             {
               text: "Staircase",
@@ -87,7 +87,7 @@ const concretePackagesData = [
           category: "Bathroom",
           details: [
             {
-              text: "Wall cladding up to a height of 7 feet",
+              text: "Wall cladding up to a height of 10 feet",
               description: " - Ceramic tiles of price ₹70/sq.ft",
             },
             {
@@ -130,7 +130,7 @@ const concretePackagesData = [
             },
             {
               text: "Internal walls",
-              description: " - Asian internal primer of 1 coat and Premium Emulsion of 2 coats",
+              description: " - Asian internal primer of 1 coat and Royal Emulsion of 2 coats",
             },
             {
               text: "External walls",
@@ -151,7 +151,7 @@ const concretePackagesData = [
             },
             {
               text: "Switches",
-              description: " - Anchor or Roma brand",
+              description: " - Legrand or Roma brand",
             },
             {
               text: "MCB",
@@ -177,7 +177,7 @@ const concretePackagesData = [
           details: [
             {
               text: "Fabrication",
-              description: " - SS Staircase Railing With Glass of the price up to ₹1000/sq.ft",
+              description: " - SS Staircase Railing With Glass of the price up to ₹1500/sq.ft",
             },
           ],
         },

@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 const concretePackagesData = [
   {
     name: "Basic Package",
-    price: "₹1,800/sq.ft",
+    price: "₹1,850/sq.ft",
     features: [
       {
         category: "Core Construction Materials",
@@ -90,7 +90,7 @@ const concretePackagesData = [
           },
           {
             text: "Sanitary ware & CP fittings",
-            description: " - Total budget for toilets ₹30,000 inclusive of GST of brand Hindware or Parryware",
+            description: " - Total budget for toilets ₹30,000 inclusive of GST of brand Classy, Elvis, Parryware or Equivalent",
           },
         ],
       },
@@ -175,7 +175,7 @@ const concretePackagesData = [
         details: [
           {
             text: "Fabrication",
-            description: " - MS Staircase Railing of the price up to ₹120/SFT",
+            description: " - MS Staircase Railing of the price up to ₹300/SFT",
           },
         ],
       },
@@ -183,7 +183,7 @@ const concretePackagesData = [
   },
   {
     name: "Standard Package",
-    price: "₹1,950/sq.ft",
+    price: "₹2,000/sq.ft",
     features: [
       {
         category: "Core Construction Materials",
@@ -362,7 +362,7 @@ const concretePackagesData = [
   },
   {
     name: "Premium Package",
-    price: "₹2,100/sq.ft",
+    price: "₹2,200/sq.ft",
     features: [
       {
         category: "Core Construction Materials",

@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import "./Home.css";
-import Modal from "./Modal";
+// import Modal from "./Modal";
 import House1 from "../Component/Images/MnImage1.webp";
 import House2 from "../Component/Images/MnImage2.webp";
 import House3 from "../Component/Images/MnImage3.webp";
 import House4 from "../Component/Images/MnImage4.webp";
-import Villa from "../Component/Images/Villa.webp";
-import Residential from "../Component/Images/Residential.webp";
+import Villa from "../Component/Images/Package-4.png";
+import Residential from "../Component/Images/Package-1.png";
 import Commercial from "../Component/Images/Commercial.webp";
 
 const Home = () => {
@@ -25,7 +25,7 @@ const Home = () => {
   return (
     <>
 
-      <Modal />
+      {/* <Modal /> */}
 
       <div className="home_mn_carousel">
         <img

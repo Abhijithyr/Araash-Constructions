@@ -50,6 +50,26 @@ import img40 from "../Component/Images/gallery-40.jpeg";
 import img41 from "../Component/Images/gallery-41.jpeg"; 
 import img42 from "../Component/Images/gallery-42.jpeg"; 
 import img43 from "../Component/Images/gallery-43.jpeg"; 
+import img44 from "../Component/Images/gallery-44.jpeg"; 
+import img45 from "../Component/Images/gallery-45.jpeg"; 
+import img46 from "../Component/Images/gallery-46.jpeg"; 
+import img47 from "../Component/Images/gallery-47.jpeg"; 
+import img48 from "../Component/Images/gallery-48.jpeg"; 
+import img49 from "../Component/Images/gallery-49.jpeg"; 
+import img50 from "../Component/Images/gallery-50.jpeg"; 
+
+import img51 from "../Component/Images/gallery-51.jpeg"; 
+import img52 from "../Component/Images/gallery-52.jpeg"; 
+import img53 from "../Component/Images/gallery-53.jpeg"; 
+import img54 from "../Component/Images/gallery-54.jpeg"; 
+import img55 from "../Component/Images/gallery-55.jpeg"; 
+import img56 from "../Component/Images/gallery-56.jpeg"; 
+import img57 from "../Component/Images/gallery-57.jpeg"; 
+import img58 from "../Component/Images/gallery-58.jpeg"; 
+import img59 from "../Component/Images/gallery-59.jpeg"; 
+import img60 from "../Component/Images/gallery-60.jpeg"; 
+import img61 from "../Component/Images/gallery-61.jpeg"; 
+import img62 from "../Component/Images/gallery-62.jpeg";
 
 
 const images = [
@@ -96,6 +116,25 @@ const images = [
   { id: 41, src: img41, alt: "Construction Site 41" },
   { id: 42, src: img42, alt: "Construction Site 42" },
   { id: 43, src: img43, alt: "Construction Site 43" },
+  { id: 44, src: img44, alt: "Construction Site 44" },
+  { id: 45, src: img45, alt: "Construction Site 45" },
+  { id: 46, src: img46, alt: "Construction Site 46" },
+  { id: 47, src: img47, alt: "Construction Site 47" },
+  { id: 48, src: img48, alt: "Construction Site 48" },
+  { id: 49, src: img49, alt: "Construction Site 49" },
+  { id: 50, src: img50, alt: "Construction Site 50" },
+  { id: 51, src: img51, alt: "Construction Site 51" },
+  { id: 52, src: img52, alt: "Construction Site 52" },
+  { id: 53, src: img53, alt: "Construction Site 53" },
+  { id: 54, src: img54, alt: "Construction Site 54" },
+  { id: 55, src: img55, alt: "Construction Site 55" },
+  { id: 56, src: img56, alt: "Construction Site 56" },
+  { id: 57, src: img57, alt: "Construction Site 57" },
+  { id: 58, src: img58, alt: "Construction Site 58" },
+  { id: 59, src: img59, alt: "Construction Site 59" },
+  { id: 60, src: img60, alt: "Construction Site 60" },
+  { id: 61, src: img61, alt: "Construction Site 61" },
+  { id: 62, src: img62, alt: "Construction Site 62" },
 ];
 
 
